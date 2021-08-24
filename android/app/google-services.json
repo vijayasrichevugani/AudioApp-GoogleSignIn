@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246461570874",
+    "firebase_url": "https://audiotranslation-f775a.firebaseio.com",
+    "project_id": "audiotranslation-f775a",
+    "storage_bucket": "audiotranslation-f775a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246461570874:android:f10f6a32b630ba2a",
+        "android_client_info": {
+          "package_name": "com.example.audiotranslation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246461570874-22uuscho7iqjvr6eeagdf4d9rc1amjfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.audiotranslation",
+            "certificate_hash": "68bad800a549b50b760f8f01cbcac35eaccec9bb"
+          }
+        },
+        {
+          "client_id": "246461570874-galmobag8o3gjsaak54tpe9n6mruocav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1Y3VWSYBAsNsy5_irNnc0B6KwNqHg_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246461570874-galmobag8o3gjsaak54tpe9n6mruocav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
